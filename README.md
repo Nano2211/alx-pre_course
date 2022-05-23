@@ -1,4 +1,1 @@
-My first readme
-0x01-git
-My second readme
-repo session
+This is the 0x01-git file
